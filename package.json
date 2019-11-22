@@ -1,6 +1,6 @@
 {
   "name": "@shuaijs/vuepress-plugin-gitalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stanye's vuepress-plugin-gitalk",
   "main": "index.js",
   "publishConfig": {

@@ -18,7 +18,8 @@ function integrateGitalk(router) {
         const commentsContainer = document.createElement('div')
         commentsContainer.id = 'comments-container'
         commentsContainer.classList.add('content')
-        const $page = document.querySelector('.blog')
+        const {selector = '.page'} = GITALK_CONFIG;
+        const $page = document.querySelector(selector)
         if ($page) {
           $page.appendChild(commentsContainer)
           renderGitalk()
