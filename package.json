@@ -1,0 +1,28 @@
+{
+  "name": "@stanyejs/vuepress-plugin-gitalk",
+  "version": "1.0.0",
+  "description": "stanye's vuepress-plugin-gitalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanyejs/vuepress-plugin-gitalk.git"
+  },
+  "keywords": [
+    "stanye",
+    "vue",
+    "vuepress",
+    "gitalk"
+  ],
+  "author": "Stan Ye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanyejs/vuepress-plugin-gitalk/issues"
+  },
+  "homepage": "https://github.com/stanyejs/vuepress-plugin-gitalk#readme",
+  "dependencies": {
+    "gitalk": "^1.5.0"
+  }
+}
