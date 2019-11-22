@@ -1,5 +1,5 @@
 {
-  "name": "@stanyejs/vuepress-plugin-gitalk",
+  "name": "@shuaijs/vuepress-plugin-gitalk",
   "version": "1.0.0",
   "description": "stanye's vuepress-plugin-gitalk",
   "main": "index.js",
