@@ -33,6 +33,8 @@ module.exports = {
           owner: '',
           // GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。(不配置默认是owner配置)
           admin: [''],
+          // commentsContainer加载selector， default: '.page'
+          selector: ''
       }
     ],
   ],
