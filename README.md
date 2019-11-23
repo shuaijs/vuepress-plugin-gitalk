@@ -1,4 +1,4 @@
-# @shuaijs/vuepress-plugin-mygitalk
+# @shuaijs/vuepress-plugin-gitalk
 
 ## 介绍
 
@@ -16,7 +16,7 @@ npm install @shuaijs/vuepress-plugin-gitalk --save
 
 ## 使用
 
-在配置文件中引入 `vuepress-plugin-mygitalk`
+在配置文件中引入 `vuepress-plugin-gitalk`
 
 ```javascript
 module.exports = {
